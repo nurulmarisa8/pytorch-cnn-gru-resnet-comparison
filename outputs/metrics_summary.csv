@@ -1,0 +1,4 @@
+Model,Train Acc (%),Val Acc (%),Val Loss,Macro F1-Score,Waktu Training (s)
+Custom CNN,90.05,87.57,0.3340,0.8766,17.1
+BiGRU RNN,86.49,85.10,0.3916,0.8543,33.4
+ResNet18 Transfer,88.06,85.37,0.4229,0.8560,47.3

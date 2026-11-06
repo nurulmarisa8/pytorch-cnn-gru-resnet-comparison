@@ -1,0 +1,36 @@
+# Dataset - tidak perlu di-upload, diunduh otomatis
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+_pkgs/
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Model weights - terlalu besar untuk GitHub
+*.pth
+*.pt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# NOTE: folder outputs/ TIDAK diabaikan agar grafik tampil di GitHub
